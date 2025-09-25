@@ -1,5 +1,3 @@
-#show heading: set text(font: "Roboto Serif")
-
 #show link: underline
 
 #set text(
